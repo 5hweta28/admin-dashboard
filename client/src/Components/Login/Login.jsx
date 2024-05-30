@@ -92,7 +92,9 @@ const Login = () => {
                             <AiOutlineSwapRight className='icon'/>
                         </button>
                         
-                        <a href='/dashboard'>Dashboard</a>
+                        <Link to={'/dashboard'}>
+                            <button className='btn'>Dahboard</button>
+                        </Link>
 
                         <span className='forgotPassword'>
                             Forgot your Password? <a href="">Click Here</a>
