@@ -1,4 +1,4 @@
-**Register and Login Module + Admin Dashboard**
+# Register and Login Module + Admin Dashboard
 
 -> This is a clean and responsive Login and Register pages with authentication to admin dashboard dashboard.
 
@@ -8,7 +8,7 @@
 
        (Backend is done using myphpadmin and is working but is not deployed)
 
--> Tech Stack
+-> **Tech Stack**
 1. React JS
 2. Node JS
    with Express Server.
@@ -17,11 +17,11 @@
 5. CSS
 6. HTML
 
-Admin Dahboard:
+**Admin Dahboard:**
 ![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/ed768a1e-1818-447b-be7d-b564fa06fe3c)
 
-Login:
+**Login:**
 ![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/5ece1cda-502a-4523-b0a3-8454dc8d7b11)
 
-Register:
+**Register:**
 ![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/d387ea55-8e4a-4665-9136-216afee54793)
