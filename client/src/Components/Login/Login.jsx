@@ -93,7 +93,7 @@ const Login = () => {
                         </button>
                         
                         <Link to={'/dashboard'}>
-                            <button className='btn'>Dahboard</button>
+                            <button className='btn'>Dashboard</button>
                         </Link>
 
                         <span className='forgotPassword'>
