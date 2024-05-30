@@ -18,7 +18,7 @@
 6. HTML
 
 Admin Dahboard:
-![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/97be04fd-7afc-4733-9568-a91e90b0dadc)
+![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/ed768a1e-1818-447b-be7d-b564fa06fe3c)
 
 Login:
 ![image](https://github.com/5hweta28/admin-dashboard/assets/113817351/5ece1cda-502a-4523-b0a3-8454dc8d7b11)
